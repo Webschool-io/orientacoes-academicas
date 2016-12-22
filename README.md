@@ -8,7 +8,7 @@ Minha parte será corrigir os textos dos projetos (até pq o Suissa não consegu
 
 > Eu quero muito ajudar!!
 
-## A única exigência é que os projetos estejam postados no github!!
+# A única exigência é que os projetos estejam postados no github!!
 
-O que vcs acham da nossa ideia??
+> O que vcs acham da nossa ideia??
 
